@@ -1,6 +1,6 @@
 // ============================================
 // MIDDLEWARE/ERRORHANDLER.JS - Global Error
-// Dibuat oleh: Riando Muhamad Subakti
+// Dibuat oleh: Siti NurLaela
 // Universitas Dian Nusantara
 // ============================================
 
