@@ -1,6 +1,6 @@
 // ============================================
 // CONTROLLERS/ITEMCONTROLLER.JS
-// Dibuat oleh: Riando Muhamad Subakti
+// Dibuat oleh: Siti NurLaela
 // Universitas Dian Nusantara
 // ============================================
 
